@@ -1,0 +1,1 @@
+This project is called "mysql-exercises" which is part of the DB100 module. Simply clone the files from GitHub, open up the Terminal, run 'npm install'. Then run 'npm test' to verify that all SQL queries run and retrieve the correct data from the sakila database.
