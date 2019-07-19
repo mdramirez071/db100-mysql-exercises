@@ -9,6 +9,7 @@ const config = require('../config.js');
 chai.use(require('chai-sorted'));
 chai.use(require('chai-as-promised'));
 
+
 const expect = chai.expect;
 
 const allActorColumns = ['actor_id', 'first_name', 'last_name', 'last_update'];
